@@ -1,6 +1,6 @@
 import FeatureCard from "./components/FeatureCard";
 import Image from "next/image";
-import { BatteryIcon, BellIcon, HeartIcon } from "./components/icon";
+import { BatteryIcon, BellIcon, HeartIcon } from "./lib/icon";
 
 export default function SmartWatchPage() {
   return (
